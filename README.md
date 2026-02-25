@@ -2,7 +2,7 @@
 
 # 你好，我是 Zmin 👋
 
-**Python 学习中 · Vibe Coding 爱好者
+Python 学习中 · Vibe Coding 爱好者
 
 </div>
 
@@ -11,7 +11,7 @@
 ### 关于我
 
 - 🐍 正在学习 **Python**
-- ⚡ 借助 AI 快速构建项目，vibe coding 也是一种生产力
+- ⚡ 借助 AI 快速构建项目
 
 ---
 
@@ -29,5 +29,5 @@
 ---
 
 <div align="center">
-  <sub>「 vibe coding 也是 coding 」</sub>
+  <sub>「 live 」</sub>
 </div>
