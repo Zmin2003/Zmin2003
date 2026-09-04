@@ -22,10 +22,9 @@ Python 学习中 · Vibe Coding 爱好者
 
 ---
 
-### 📈 代码提交趋势
+### 📈 代码贡献记录
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zmin2003&theme=tokyo-night&hide_border=true&area=true)
-
+![GitHub Contributions](https://ghchart.rshah.org/Zmin2003)
 ---
 
 <div align="center">
